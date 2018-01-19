@@ -1,3 +1,16 @@
 body{
   font-family: 'Supermercado One',cursive;
 }
+li:hover {
+  font-size: 25px;
+}
+a:focus {
+  color: white;
+  background-color: green;
+}
+li:active {
+  background-color: black;
+}
+li{
+  border-width: 5px;
+}
